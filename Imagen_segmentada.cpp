@@ -4,6 +4,8 @@
 #include <cmath>
 #include <limits>
 
+//Abrir las imagenes con gimp
+
 using namespace std;
 
 struct Pixel {
